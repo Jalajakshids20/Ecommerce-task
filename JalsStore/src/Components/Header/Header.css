@@ -1,0 +1,28 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+nav.header  a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+nav.header a:hover{
+    color: orange;
+}
+.jalstore-link {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #c8ff00; /* Change the text color as needed */
+    text-decoration:color-mix(in srgb, color percentage, color percentage);
+    letter-spacing: 4px;
+    /* Add more styles as needed */
+}
